@@ -1,0 +1,19 @@
+{
+  "name": "chipsjs-lock-mysql",
+  "version": "1.0.0",
+  "description": "基于mysql的分布式锁模块",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chipsjs/chipsjs-event.git"
+  },
+  "author": "chips",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chipsjs/chipsjs-event/issues"
+  },
+  "homepage": "https://github.com/chipsjs/chipsjs-event#readme"
+}
